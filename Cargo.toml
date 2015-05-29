@@ -1,0 +1,11 @@
+[package]
+name = "jsonpath"
+version = "0.0.1"
+authors = ["akatsuki-chan"]
+
+[lib]
+name = "jsonpath"
+
+[dependencies]
+regex = "0.1.8"
+rustc-serialize = "0.3"
